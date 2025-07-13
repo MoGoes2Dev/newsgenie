@@ -1,0 +1,22 @@
+# Ignore virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Package build artifacts
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# VSCode settings (optional)
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
