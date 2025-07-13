@@ -1,6 +1,6 @@
 # newsgenie
 
-AI-Powered Information and News Assistant
+Agentic Framework Project 
 
 
 
